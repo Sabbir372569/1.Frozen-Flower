@@ -60,6 +60,7 @@ body{
 /*section 3 hot deal*/
 
 
+
 .hot-div{
     display:flex;
     justify-content: space-evenly;
@@ -74,7 +75,6 @@ body{
 }
 .section-title{
     color: #272727;
-    text-indent:5px;
     font-size: 40px;
     font-weight: 800;
     text-align: center;
@@ -108,11 +108,30 @@ body{
 #some-text{
     display:flex;
     text-align: center;
-    padding-top: 24px;
-    padding-bottom: 48px;
+    padding: 24px 300px 48px 300px;
+   
 }
 
 .about-flower-image{
    display:flex;
    justify-content: space-between;
+}
+
+.latest-section{
+    margin-top: 128px;
+    padding-left: 238px;
+    padding-right: 238px;
+    background-image: url(image/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.latest-sec{
+    padding-left:287px;
+    padding-right:287px;
+    padding:122px;
+}
+.latest-sec-div{
+    pa
 }
