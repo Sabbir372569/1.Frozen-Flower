@@ -58,6 +58,79 @@ body{
     height: 720px;
 }
 
+/*section  Feature*/
+.feature{
+    padding-left: 238px;
+    padding-right: 238px;
+    margin-top:178px;
+    margin-bottom: 128px;
+}
+
+#text{
+    padding:24px 425px 48px 425px;
+    text-align: center;
+}
+.feature-image{
+    display:flex;
+    justify-content: space-between;
+    text-align:center;
+    text-decoration: underline;
+
+    color: #272727;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+    
+
+ }
+
+.img1{
+    width: 500px;
+    height: 580px;
+    vertical-align:middle;
+    
+}
+
+.img2{
+     width: 500px;
+     height: 580px;
+     vertical-align:middle;
+
+}
+.img3{
+    width: 520px;
+    height: 560px;
+}
+
+
+#im1{
+    background-color:#dbcbcbea ;
+    width:510px;
+    height:575px;
+    align-items: center;
+}
+
+#im2{
+    background:lightgray ;
+    width:510px;
+    height:575px;
+    align-items: center;
+}
+
+#im3{
+    background-color:#dbcbcbea ;
+    width:510px;
+    height:575px;
+    align-items: center;
+}
+
+.p1 .p2 .p3{
+margin-bottom:0;
+display:flex;
+justify-content: center;
+}
+
+
 /*section 3 hot deal*/
 
 .hot-div{
