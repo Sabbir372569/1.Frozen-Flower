@@ -103,6 +103,7 @@ body{
 .about-flower{
     padding-left: 238px;
     padding-right: 238px;
+    margin-bottom: 128px;
 }
 
 #some-text{
@@ -118,20 +119,27 @@ body{
 }
 
 .latest-section{
-    margin-top: 128px;
-    padding-left: 238px;
-    padding-right: 238px;
-    background-image: url(image/Rectangle\ 9.png);
-    background-repeat: no-repeat;
-    background-position: center;
+    background-color: bisque;
+    padding-top:122px;
 }
 
+.input{
+    display:flex;
+    justify-content:center;
+}
+#email{
+    text-indent:20px;
+    width: 700px;
+    height: 64px;
+    border-radius: 8px;
+    background: #FFF;
+}
 
-.latest-sec{
-    padding-left:287px;
-    padding-right:287px;
-    padding:122px;
-}
-.latest-sec-div{
-    pa
-}
+.lat-but{
+    padding:20px 43px;
+    color: #FFF;
+    border-radius: 5px;
+    background: #E55473;
+    font-size: 20px;
+    font-weight: 700;
+
