@@ -86,23 +86,25 @@ body{
 .img1{
     border-radius: 300px 300px 0px 0px;
     background-color:#dbcbcbea ;
-    width:465px;
+    width:460px;
     height:575px;
     vertical-align:middle;
+    padding-right: 20px;
 }
 
 .img2{
     border-radius: 300px 300px 0px 0px;
     background:lightgray ;
-    width:465px;
+    width:460px;
     height:575px;
     vertical-align:middle;
+    padding-right: 20px;
 }
 
 .img3{  
     border-radius: 300px 300px 0px 0px;
     background-color:#dbcbcbea ;
-    width:465px;
+    width:460px;
     height:575px;
 }
 
